@@ -128,6 +128,9 @@ navigation_header:
 - title: Members
   url: "/#staff"
 
+navigation_footer:
+- title: Home
+  url: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/gpisc-unioeste
