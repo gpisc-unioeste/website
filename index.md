@@ -10,16 +10,15 @@ excerpt: ""
 
 
 ## Research Topics
-Cloud Computing
-High performance computing
-Distributed systems
-Computer Networks
-Internet of things
-Embedded Systems
-Smart cities
+* Cloud Computing
+* High performance computing
+* Distributed systems
+* Computer Networks
+* Internet of things
+* Embedded Systems
+* Smart cities
 
 
 ## Members
-cds
-[A link](https://david.darn.es "Edson Tavares de Camargo")
+* [A link](https://david.darn.es "Edson Tavares de Camargo")
 
