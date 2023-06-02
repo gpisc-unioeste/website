@@ -3,7 +3,7 @@ title: GPISC
 feature_text: |
   ## GPISC
   Grupo de Pesquisa e Inovação em Sistemas Computacionais
-feature_image: "imagens/logo-colorido.png"
+feature_image: "imagens/logo-branco-fundo-transparente.png"
 excerpt: ""
 ---
 
@@ -20,5 +20,5 @@ excerpt: ""
 
 
 ## Members
-* [A link](https://david.darn.es "Edson Tavares de Camargo")
+* [Edson Tavares de Camargo](https://david.darn.es "Edson Tavares de Camargo")
 
