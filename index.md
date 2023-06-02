@@ -3,7 +3,7 @@ title: GPISC
 feature_text: |
   ## GPISC
   Grupo de Pesquisa e Inovação em Sistemas Computacionais
-feature_image: "images/logo-colorido.png"
+feature_image: "imagens/logo-colorido.png"
 excerpt: ""
 ---
 
