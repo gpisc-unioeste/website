@@ -1,8 +1,7 @@
 ---
-title: GPISC
+title: GPISC - Grupo de Pesquisa e Inovação em Sistemas Computacionais
 feature_text: |
-  ##GPSIC
-  Grupo de Pesquisa e Inovação em Sistemas Computacionais
+ 
 feature_image: "assets/logos/banner.png"
 excerpt: "GPISC"
 ---
@@ -10,13 +9,13 @@ excerpt: "GPISC"
 {% include figure.html image="imagens/logo-colorido.png"  position="left" width="300" height="800" %}
 
 ## Topics
-  * Cloud Computing
-  * High performance computing
-  * Distributed systems
-  * Computer Networks
-  * Internet of things
-  * Embedded Systems
-  * Smart cities
+      * Cloud Computing
+      * High performance computing
+      * Distributed systems
+      * Computer Networks
+      * Internet of things
+      * Embedded Systems
+      * Smart cities
 
 
 ## Staff
