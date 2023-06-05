@@ -1,8 +1,9 @@
 ---
-title: 
+title: GPISC
 feature_text: |
+  ##GPSIC
   Grupo de Pesquisa e Inovação em Sistemas Computacionais
-#feature_image: "imagens/logo-fundo-preto.png"
+feature_image: "assets/logos/banner.png"
 excerpt: "GPISC"
 ---
 
