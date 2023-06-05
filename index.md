@@ -1,14 +1,14 @@
 ---
-title: GPISC
+title: 
 feature_text: |
   Grupo de Pesquisa e Inovação em Sistemas Computacionais
 #feature_image: "imagens/logo-fundo-preto.png"
-excerpt: ""
+excerpt: "GPISC"
 ---
 
 {% include figure.html image="imagens/logo-colorido.png"  position="left" width="300" height="800" %}
 
-## Research Topics
+## Topics
   * Cloud Computing
   * High performance computing
   * Distributed systems
